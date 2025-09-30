@@ -191,22 +191,7 @@ pip install --upgrade pandas numpy matplotlib seaborn scikit-learn scipy statsmo
    - Use Dask or parallel processing
    - Reduce plot resolution
 
-## Questions or Issues?
 
-If you encounter any problems:
-1. Check that your CSV format matches the expected structure
-2. Verify all libraries are installed
-3. Check Python version compatibility
-4. Review error messages for specific issues
-
-## Next Steps
-
-After reviewing Task 1 outputs:
-1. Validate findings with domain experts
-2. Proceed to **Task 2: RAG + LLM System Design**
-3. Prepare presentation slides summarizing key findings
-
----
-**Author**: Your Name  
+**Author**: Daksh Jain  
 **Date**: 2025-09-30  
 **Project**: ExactSpace Data Science Internship Assessment
